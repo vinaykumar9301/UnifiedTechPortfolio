@@ -1,0 +1,60 @@
+
+VINAY KUMAR
++91 96274 61501  
+vinay.21ug1113@iiitranchi.ac.in
+| https://github.com/vinaykumar9301 | https://www.linkedin.com/in/vinay-kumar-cse/
+
+Proficient in DevOps, Cloud, & SDLC including analysis, design, scripting, testing, version control, documentation and support.
+
+EDUCATION
+
+Indian Institute of Information Technology, Ranchi 					        	           Ranchi, India
+Bachelor of Technology in Computer Science and Technology 		      		                          Nov 2021 – Jul 2025
+National Model Int School, Saharanpur				         			        	Saharanpur, India
+Intermediate Education 									           Aug 2020 – Mar 2021
+EXPERIENCE
+
+Intern PE                                                           				                                  	 Jaipur, India
+Web Developer (Frontend)     						                                 	 Jun2023 – Aug2023
+•	Developed and maintained personal portfolio website using HTML, CSS, JavaScript, and React js.
+•	Built several personal projects a simple e-commerce app.
+•	Contributed to open source web development projects.
+
+PROJECTS
+
+Automated CI/CD Pipeline for Django Web Application | AWS, Docker, Jenkins and Kubernetes	    
+ Jun2023-Present
+
+•	A Real time CI/CD Pipeline on Jenkins with Github Integration and a system designed to handle Database, Server and orchestration using Docker Compose, Ansible.
+
+ Serverless Application Python for HTTP API| AWS (Lambda, API Gateway) Python, Serverless Architecture, HTTP API, Automation, Collaboration      	                        					Aug 2023 - Present     
+
+•	Developed a serverless application leveraging AWS services, Ubuntu, and Python to create a robust HTTP API.
+•	Utilized AWS Lambda, API Gateway, and other serverless components for efficient and cost-effective scaling.
+•	Implemented end-to-end automation, enhancing the application's reliability and scalability.
+•	Collaborated with a team to ensure seamless integration and effective deployment of the serverless application.
+
+Efficient Kubernetes Cluster Management and Security |Kubernetes, Lens, Monode, Kuberphone, Kubespace, YAML Templating, Multi-cluster Management, Container Management, Kubernetes Security
+Sep2023-Present
+
+•	Utilized Lens to proficiently manage Kubernetes clusters, improving monitoring and operational efficiency.
+•	Employed Monode for creating manifest YAML templates, enhancing configuration consistency and manageability.
+•	Managed multi-clusters effectively with Kuberphone, ensuring seamless coordination and performance across environments.
+•	Implemented Kubespace for securing Kubernetes clusters, enhancing system security and compliance.
+
+SKILLS & INTERESTS 
+
+Programming Language: C, C++, Python, JavaScript 
+DevOps Tools: Git & Github, Docker, Jenkins, Kubernetes, Terraform, Ansible, Grafana
+Web Development: (MongoDB, Express.js, React.js, Node.js) Basic understanding
+Database: MySQL, MongoDB
+Cloud Platforms:
+  Amazon Web Services (AWS)
+    EC2, IAM, Lambda, API Gateway, RDS (Relational Database Service)
+
+LEADERSHIP & ACTIVITIES
+
+Alfaaz (College Literary Club)                                                				 Ranchi, India
+Vice Head     									            	sep 2023 – Present
+•	As Vice Head of Alfaaz, I played a pivotal leadership role in overseeing club activities and spearheading event planning and execution, including the successful coordination of annual events such as Lamhe and Open Mic.
+

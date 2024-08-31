@@ -1,0 +1,36 @@
+# Node modules
+/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+client/node_modules/
+
+# Build output
+client/build/
+
+# Temporary files
+*.tmp
+*.swp
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package lock files
+# package-lock.json
+
+# npm debug log
+npm-debug.log
+
+# Yarn Integrity file
+.yarn-integrity
